@@ -2,6 +2,7 @@ node-stl
 ========
 
 Parse *STL* files with Node.js and get volume, weight,surface area and the bounding box.
+用Node解析.stl文件，获取体积，重量，表面积和占用空间等数据。可以运行test.js快速开始。
 
 ## example
 
