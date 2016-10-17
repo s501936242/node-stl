@@ -1,7 +1,7 @@
 {
   "name": "node-stl",
   "version": "0.1.0",
-  "description": "parse stl files with Node.js and get volume, weight, and bounding box",
+  "description": "parse stl files with Node.js and get volume, weight,surface area and bounding box",
   "author": {
     "name": "Johannes Boyne",
     "email": "johannes@boyne.de",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/johannesboyne/node-stl.git"
+    "url": "https://git.oschina.net/rockfate/node-stl.git"
   },
   "scripts": {
     "test": "mocha"
